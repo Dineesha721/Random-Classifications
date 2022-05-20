@@ -23,8 +23,8 @@ To write a python program to perform random classification.
 ```
 /*
 Program to implement random classification.
-Developed by   : U.BHAVYA
-Register Number : 212220230055
+Developed by   : Saidineesha.S
+Register Number : 212219040126
 */
 import matplotlib.pyplot as plt
 from sklearn import datasets
